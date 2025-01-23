@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/<codeash007>/<username>/output/github-contribution-grid-snake.svg)
+
 <h2 align="left">Hi 👋! My name is Ashish. and I'm a Web Developer  from Uttrakhand</h2>
 
 ###
