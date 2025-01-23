@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Ashish. and I'm a Web Developer  from Uttrakhand</h2>
+<h2 align="left">Code is like humor. When you have to explain it, it’s bad</h2>
 
 ###
 
