@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="banner_github.png" height="150" alt="stats graph"  />
+  <img src="banner_github" height="150" alt="stats graph"  />
 </div>
 
 
