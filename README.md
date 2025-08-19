@@ -12,13 +12,13 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 <p align="center">
   <a href="https://www.youtube.com/@codeash007">
-    <img src="https://i.pinimg.com/1200x/b7/53/95/b75395ab102e54eb3ca75ed0d7a3ff5c.jpg" alt="YouTube Subscribers" width="100px" height="100px"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCt1k5-hNxLNtXL_pqW0uasw?style=for-the-badge&label=YouTube%20Subscribers&color=red" alt="YouTube Subscribers"/>
   </a>
   <a href="https://github.com/codeash007">
-    <img src="https://i.pinimg.com/1200x/a2/a4/7f/a2a47f8e2f6c1d36d178c8e40d86219b.jpg" alt="GitHub Followers" width="100px" height="100px"/>
+    <img src="https://img.shields.io/github/followers/codeash007?style=for-the-badge&label=GitHub%20Followers&color=blue" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/codeash007">
-    <img src="https://i.pinimg.com/1200x/a2/a4/7f/a2a47f8e2f6c1d36d178c8e40d86219b.jpg" alt="GitHub Stars" width="100px" height="100px"/>
+    <img src="https://img.shields.io/github/stars/codeash007?style=for-the-badge&label=GitHub%20Stars&color=yellow" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -45,11 +45,29 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ### 📺 Latest YouTube Videos
 
-- [🔥 FREE Gemini Pro + Veo 3 & 2TB Storage - No ID Needed!](https://www.youtube.com/watch?v=3SQuAE8WwBw) (18K views)
-- [How to Get LinkedIn Premium FREE in 2025 (Working Trick + Step-by-Step Guide)](https://www.youtube.com/watch?v=CEVGhSCkEBw) (4.9K views)
-- [Unlock Perplexity Pro FREE: Fast, Easy, 100% Legal (No Tricks!)](https://www.youtube.com/watch?v=gw6lybxYB4s) (3.4K views)
-- [Unlock Perplexity Pro FREE for 1 Year: 100% Legal & Easy Guide (No Tricks!)](https://www.youtube.com/watch?v=gw6lybxYB4s) (3.3K views)
-- [🔥 10 FREE AI Courses 2025 – Certificates & Rewards!](https://www.youtube.com/watch?v=3SQuAE8WwBw) (1.3K views)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3SQuAE8WwBw">
+    <img src="https://img.youtube.com/vi/3SQuAE8WwBw/0.jpg" alt="🔥 FREE Gemini Pro + Veo 3 & 2TB Storage - No ID Needed!" width="240px" height="135px"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=CEVGhSCkEBw">
+    <img src="https://img.youtube.com/vi/CEVGhSCkEBw/0.jpg" alt="How to Get LinkedIn Premium FREE in 2025 (Working Trick + Step-by-Step Guide)" width="240px" height="135px"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=gw6lybxYB4s">
+    <img src="https://img.youtube.com/vi/gw6lybxYB4s/0.jpg" alt="Unlock Perplexity Pro FREE: Fast, Easy, 100% Legal (No Tricks!)" width="240px" height="135px"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=gw6lybxYB4s">
+    <img src="https://img.youtube.com/vi/gw6lybxYB4s/0.jpg" alt="Unlock Perplexity Pro FREE for 1 Year: 100% Legal & Easy Guide (No Tricks!)" width="240px" height="135px"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=3SQuAE8WwBw">
+    <img src="https://img.youtube.com/vi/3SQuAE8WwBw/0.jpg" alt="🔥 10 FREE AI Courses 2025 – Certificates & Rewards!" width="240px" height="135px"/>
+  </a>
+</p>
+
+- [🔥 FREE Gemini Pro + Veo 3 & 2TB Storage - No ID Needed!](https://www.youtube.com/watch?v=3SQuAE8WwBw)
+- [How to Get LinkedIn Premium FREE in 2025 (Working Trick + Step-by-Step Guide)](https://www.youtube.com/watch?v=CEVGhSCkEBw)
+- [Unlock Perplexity Pro FREE: Fast, Easy, 100% Legal (No Tricks!)](https://www.youtube.com/watch?v=gw6lybxYB4s)
+- [Unlock Perplexity Pro FREE for 1 Year: 100% Legal & Easy Guide (No Tricks!)](https://www.youtube.com/watch?v=gw6lybxYB4s)
+- [🔥 10 FREE AI Courses 2025 – Certificates & Rewards!](https://www.youtube.com/watch?v=3SQuAE8WwBw)
 
 
 
