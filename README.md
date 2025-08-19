@@ -12,13 +12,13 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 <p align="center">
   <a href="https://www.youtube.com/@codeash007">
-    <img src="https://i.pinimg.com/1200x/b7/53/95/b75395ab102e54eb3ca75ed0d7a3ff5c.jpg" alt="YouTube Subscribers"/>
+    <img src="https://i.pinimg.com/1200x/b7/53/95/b75395ab102e54eb3ca75ed0d7a3ff5c.jpg" alt="YouTube Subscribers" width="100px" height="100px"/>
   </a>
   <a href="https://github.com/codeash007">
-    <img src="https://i.pinimg.com/1200x/a2/a4/7f/a2a47f8e2f6c1d36d178c8e40d86219b.jpg" alt="GitHub Followers"/>
+    <img src="https://i.pinimg.com/1200x/a2/a4/7f/a2a47f8e2f6c1d36d178c8e40d86219b.jpg" alt="GitHub Followers" width="100px" height="100px"/>
   </a>
   <a href="https://github.com/codeash007">
-    <img src="https://i.pinimg.com/1200x/a2/a4/7f/a2a47f8e2f6c1d36d178c8e40d86219b.jpg" alt="GitHub Stars"/>
+    <img src="https://i.pinimg.com/1200x/a2/a4/7f/a2a47f8e2f6c1d36d178c8e40d86219b.jpg" alt="GitHub Stars" width="100px" height="100px"/>
   </a>
 </p>
 
@@ -45,11 +45,11 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ### 📺 Latest YouTube Videos
 
-- [🔥 FREE Gemini Pro + Veo 3 & 2TB Storage - No ID Needed!](https://www.youtube.com/watch?v=s-DejfiXpck) (18K views)
-- [How to Get LinkedIn Premium FREE in 2025 (Working Trick + Step-by-Step Guide)](https://www.youtube.com/watch?v=DsXeRVZ03do) (4.9K views)
-- [Unlock Perplexity Pro FREE: Fast, Easy, 100% Legal (No Tricks!)](https://www.youtube.com/watch?v=s-DejfiXpck) (3.4K views)
-- [Unlock Perplexity Pro FREE for 1 Year: 100% Legal & Easy Guide (No Tricks!)](https://www.youtube.com/watch?v=s-DejfiXpck) (3.3K views)
-- [🔥 10 FREE AI Courses 2025 – Certificates & Rewards!](https://www.youtube.com/watch?v=s-DejfiXpck) (1.3K views)
+- [🔥 FREE Gemini Pro + Veo 3 & 2TB Storage - No ID Needed!](https://www.youtube.com/watch?v=3SQuAE8WwBw) (18K views)
+- [How to Get LinkedIn Premium FREE in 2025 (Working Trick + Step-by-Step Guide)](https://www.youtube.com/watch?v=CEVGhSCkEBw) (4.9K views)
+- [Unlock Perplexity Pro FREE: Fast, Easy, 100% Legal (No Tricks!)](https://www.youtube.com/watch?v=gw6lybxYB4s) (3.4K views)
+- [Unlock Perplexity Pro FREE for 1 Year: 100% Legal & Easy Guide (No Tricks!)](https://www.youtube.com/watch?v=gw6lybxYB4s) (3.3K views)
+- [🔥 10 FREE AI Courses 2025 – Certificates & Rewards!](https://www.youtube.com/watch?v=3SQuAE8WwBw) (1.3K views)
 
 
 
