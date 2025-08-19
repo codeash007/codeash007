@@ -1,5 +1,3 @@
-<div align="center">
-
 # Ashish Dubey
 
 **`Full-Stack Web Developer · Freelancer · Computer Science`**
@@ -62,19 +60,32 @@ I'm a passionate web developer and tech enthusiast building creative and functio
   <table>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=3SQuAE8WwBw" target="_blank">
-          <img alt="FREE Gemini Pro + Veo 3 & 2TB Storage" src="https://ytcards.demolab.com/?id=3SQuAE8WwBw&title=FREE+Gemini+Pro+%2B+Veo+3+%26+2TB+Storage&lang=en&background_color=141321&title_color=ffffff&stats_color=dedede&width=300" />
+        <a href="https://youtu.be/DpEBWfklM70" target="_blank">
+          <img alt="🔥 ChatGPT 5 Pro FREE & Unlimited Access | Full Guide #chatgpt" src="https://drive.google.com/uc?export=view&id=1i2X5p8zYYNK7cbnZv9EzyzvNXugHuHTx" width="240px" height="135px"/>
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/watch?v=gw6lybxYB4s" target="_blank">
-          <img alt="Unlock Perplexity Pro FREE: Fast, Easy, 100% Legal" src="https://ytcards.demolab.com/?id=gw6lybxYB4s&title=Unlock+Perplexity+Pro+FREE%3A+Fast%2C+Easy%2C+100%25+Legal&lang=en&background_color=141321&title_color=ffffff&stats_color=dedede&width=300" />
+        <a href="https://youtu.be/VtvG7eUx93w" target="_blank">
+          <img alt="10 FREE AI Courses 2025 – Certificates & Rewards!" src="https://drive.google.com/uc?export=view&id=1tvO8L2HblC3kaEWU2Ka8_y1r1jruHOFc" width="240px" height="135px"/>
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/watch?v=QkcNzwRyo28" target="_blank">
-          <img alt="Get Gemini Pro, VEO 3 & 2TB FREE on Mobile" src="https://ytcards.demolab.com/?id=QkcNzwRyo28&title=Get+Gemini+Pro%2C+VEO+3+%26+2TB+FREE+on+Mobile&lang=en&background_color=141321&title_color=ffffff&stats_color=dedede&width=300" />
+        <a href="https://youtu.be/5-6VSFqB-TQ" target="_blank">
+          <img alt="FREE Bulk AI Image Generator 2025 Google Imagine 4 + ..." src="https://drive.google.com/uc?export=view&id=1UdyjTMPdf2L8HN6nBXDpcNY5yluds51F" width="240px" height="135px"/>
         </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://youtu.be/3SQuAE8WwBw" target="_blank">
+          <img alt="FREE Gemini Pro + Veo 3 & 2TB Storage - No ID Needed!" src="https://drive.google.com/uc?export=view&id=1Af8u2fHtuWpCzjkvmwt7hObJt25TfeTx" width="240px" height="135px"/>
+        </a>
+      </td>
+      <td>
+        <!-- Placeholder for fifth video if needed -->
+      </td>
+      <td>
+        <!-- Placeholder for sixth video if needed -->
       </td>
     </tr>
   </table>
