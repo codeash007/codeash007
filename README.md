@@ -10,29 +10,6 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <a href="https://www.youtube.com/@codeash007" target="_blank">
-    <img src="./youtube_subscribers_static.png" alt="YouTube Subscribers"/>
-  </a>
-  <a href="https://github.com/codeash007?tab=followers" target="_blank">
-    <img src="./github_followers_static.png" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/codeash007?tab=repositories&sort=stargazers" target="_blank">
-    <img src="./github_stars_static.png" alt="GitHub Stars"/>
-  </a>
-</div>
-
-<!-- Quick Subscribe button placed near stats for better CTR -->
-<div align="center">
-  <a href="https://www.youtube.com/@codeash007?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
-  </a>
-</div>
-
----
-
 ### 🧰 Languages and Tools
 
 <div align="center">
@@ -52,40 +29,65 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ### 📺 Latest YouTube Videos
 
+<!-- Use ytcards for reliable thumbnails (Drive links often fail on GitHub). Order matches the reference layout. -->
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://youtu.be/DpEBWfklM70" target="_blank">
-          <img alt="🔥 ChatGPT 5 Pro FREE & Unlimited Access | Full Guide #chatgpt" src="https://drive.google.com/uc?export=view&id=1i2X5p8zYYNK7cbnZv9EzyzvNXugHuHTx" width="240px" height="135px"/>
+          <img alt="ChatGPT 5 Pro FREE & Unlimited Access" src="https://ytcards.demolab.com/?id=DpEBWfklM70&title=ChatGPT+5+Pro+FREE+%26+Unlimited+Access&lang=en&background_color=141321&title_color=ffffff&stats_color=dedede&width=300" />
         </a>
       </td>
       <td>
         <a href="https://youtu.be/VtvG7eUx93w" target="_blank">
-          <img alt="10 FREE AI Courses 2025 – Certificates & Rewards!" src="https://drive.google.com/uc?export=view&id=1tvO8L2HblC3kaEWU2Ka8_y1r1jruHOFc" width="240px" height="135px"/>
+          <img alt="10 FREE AI Courses 2025 – Certificates & Rewards!" src="https://ytcards.demolab.com/?id=VtvG7eUx93w&title=10+FREE+AI+Courses+2025+%E2%80%93+Certificates+%26+Rewards%21&lang=en&background_color=141321&title_color=ffffff&stats_color=dedede&width=300" />
         </a>
       </td>
       <td>
         <a href="https://youtu.be/5-6VSFqB-TQ" target="_blank">
-          <img alt="FREE Bulk AI Image Generator 2025 Google Imagine 4 + ..." src="https://drive.google.com/uc?export=view&id=1UdyjTMPdf2L8HN6nBXDpcNY5yluds51F" width="240px" height="135px"/>
+          <img alt="FREE Bulk AI Image Generator 2025 (Imagen 4)" src="https://ytcards.demolab.com/?id=5-6VSFqB-TQ&title=FREE+Bulk+AI+Image+Generator+2025+%28Imagen+4%29&lang=en&background_color=141321&title_color=ffffff&stats_color=dedede&width=300" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://youtu.be/3SQuAE8WwBw" target="_blank">
-          <img alt="FREE Gemini Pro + Veo 3 & 2TB Storage - No ID Needed!" src="https://drive.google.com/uc?export=view&id=1Af8u2fHtuWpCzjkvmwt7hObJt25TfeTx" width="240px" height="135px"/>
+          <img alt="FREE Gemini Pro + Veo 3 & 2TB Storage" src="https://ytcards.demolab.com/?id=3SQuAE8WwBw&title=FREE+Gemini+Pro+%2B+Veo+3+%26+2TB+Storage&lang=en&background_color=141321&title_color=ffffff&stats_color=dedede&width=300" />
         </a>
       </td>
-      <td>
-        <!-- Add more videos if needed -->
-      </td>
+      <td><!-- Keep empty to maintain the 3x2 grid look like the reference --></td>
       <td></td>
     </tr>
   </table>
 </div>
 
-> Note: If a badge still doesn't appear immediately, it’s likely GitHub’s image cache. Refresh after a minute or two, or open the raw README to force refresh.
+---
+
+### 📊 Stats
+
+<div align="center">
+  <!-- Reliable GitHub stats badges -->
+  <a href="https://github.com/codeash007?tab=followers" target="_blank">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/codeash007?label=Followers&style=for-the-badge&color=236ad3" />
+  </a>
+  <a href="https://github.com/codeash007?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/codeash007?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=E1AD0E" />
+  </a>
+
+  <!-- GitHub Readme Stats card (commonly used, renders on GitHub) -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+      <img alt="Ashish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeash007&show_icons=true&theme=radical&hide_title=false&count_private=true" height="170" />
+    </a>
+  </div>
+</div>
+
+<!-- Subscribe button near stats (CTA) -->
+<div align="center">
+  <a href="https://www.youtube.com/@codeash007?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
+  </a>
+</div>
 
 ---
 
