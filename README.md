@@ -1,3 +1,5 @@
+<div align="center">
+
 # Ashish Dubey
 
 **`Full-Stack Web Developer · Freelancer · Computer Science`**
@@ -11,25 +13,14 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 ### 📊 Stats
 
 <div align="center">
-  
-  <!-- YouTube Subscribers -->
   <a href="https://www.youtube.com/@codeash007" target="_blank">
-    <img alt="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCt1k5-hNxLNtXL_pqW0uasw?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCt1k5-hNxLNtXL_pqW0uasw?style=social" alt="YouTube Subscribers"/>
   </a>
-  
-  <!-- YouTube Views -->
-  <a href="https://www.youtube.com/@codeash007" target="_blank">
-    <img alt="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCt1k5-hNxLNtXL_pqW0uasw?color=%23E05D44&label=VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630" />
-  </a>
-  
-  <!-- GitHub Followers -->
   <a href="https://github.com/codeash007?tab=followers" target="_blank">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/codeash007?color=236ad3&label=FOLLOWERS&logo=people&logoColor=white&style=for-the-badge&labelColor=1155ba" />
+    <img src="https://img.shields.io/github/followers/codeash007?style=social" alt="GitHub Followers"/>
   </a>
-  
-  <!-- GitHub Stars (total) -->
   <a href="https://github.com/codeash007?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/codeash007?color=%23E1AD0E&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=FFA500" />
+    <img src="https://img.shields.io/github/stars/codeash007?style=social" alt="GitHub Stars"/>
   </a>
 </div>
 
@@ -109,6 +100,12 @@ I'm a passionate web developer and tech enthusiast building creative and functio
   
   If you like my work, consider following and starring the repositories!
   
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/@codeash007?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe%20to%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to YouTube"/>
+  </a>
 </div>
 
 
