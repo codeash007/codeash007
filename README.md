@@ -106,3 +106,20 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 </div>
 
 
+
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Light mode -->
+<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/codeash007/codeash007/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+<!-- Dark mode -->
+<img alt="github contribution grid snake dark" src="https://raw.githubusercontent.com/codeash007/codeash007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+</div>
+
+
