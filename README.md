@@ -93,11 +93,11 @@ I'm a passionate web developer and tech enthusiast building creative and functio
 
 ### 📚 Popular Repositories
 
-- [Modern-PortFolio](https://github.com/codeash007/Modern-PortFolio) (8 stars)
-- [Krishan-Janmashtami](https://github.com/codeash007/Krishan-Janmashtami) (3 stars)
-- [heart-animation](https://github.com/codeash007/heart-animation) (1 star)
-- [portfolio](https://github.com/codeash007/portfolio) (1 star)
-- [Ai_powered-fitness](https://github.com/codeash007/Ai_powered-fitness) (1 star)
+- [Modern-PortFolio](https://github.com/codeash007/Modern-PortFolio) 
+- [Krishan-Janmashtami](https://github.com/codeash007/Krishan-Janmashtami) 
+- [heart-animation](https://github.com/codeash007/heart-animation) 
+- [portfolio](https://github.com/codeash007/portfolio) 
+- [Ai_powered-fitness](https://github.com/codeash007/Ai_powered-fitness) 
 
 ---
 
