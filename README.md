@@ -204,7 +204,7 @@ I'm a passionate web developer and tech enthusiast building creative and functio
         </a>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 10px; box-shadow: 0 10px 25px rgba(228, 64, 95, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://www.instagram.com/codeash.?igsh=YXp1ZWFvOWJ6NGNo" target="_blank">
+        <a href="https://www.instagram.com/codeash.007/" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e293b" alt="Instagram" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(228, 64, 95, 0.3);"/>
         </a>
       </td>
