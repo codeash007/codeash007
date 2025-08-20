@@ -4,7 +4,7 @@
 
 **`Full-Stack Web Developer · Freelancer · Computer Science`**
 
-I'm a passionate web developer and tech enthusiast building creative and functional projects. Currently a BCA-2nd Year student aiming to master web development and UI/UX optimization. Focused on creating intelligent, user-friendly solutions that empower organizations with innovative digital systems.
+I'm a passionate web developer and tech enthusiast building creative and functional projects. Currently a BCA-3rd Year student aiming to master web development and UI/UX optimization. Focused on creating intelligent, user-friendly solutions that empower organizations with innovative digital systems.
 
 </div>
 
