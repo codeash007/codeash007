@@ -143,10 +143,10 @@ I'm a passionate web developer and tech enthusiast building creative and functio
   <table style="border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://github-readme-stats.vercel.app/api?username=codeash007&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" height="180" alt="Ashish's GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=codeash007&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" height="180" alt="Ashish's GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeash007&theme=tokyonight&border_radius=15&background=1e293b&stroke=8b5cf6&ring=3b82f6&fire=8b5cf6&currStreakLabel=ffffff" height="180" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+        <img src="https://streak-stats.demolab.com/?user=codeash007&theme=tokyonight&border_radius=15&background=1e293b&stroke=8b5cf6&ring=3b82f6&fire=8b5cf6&currStreakLabel=ffffff" height="180" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
       </td>
     </tr>
   </table>
@@ -154,7 +154,7 @@ I'm a passionate web developer and tech enthusiast building creative and functio
   <br>
   
   <div style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1); display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeash007&layout=compact&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codeash007&layout=compact&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
   </div>
 </div>
 
@@ -167,24 +167,24 @@ I'm a passionate web developer and tech enthusiast building creative and functio
     <tr>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
         <a href="https://github.com/codeash007/Chat-Bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Chat-Bot&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Chat-Bot" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codeash007&repo=Chat-Bot&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Chat-Bot" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
         </a>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
         <a href="https://github.com/codeash007/Ai_powered-fitness">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Ai_powered-fitness&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="AI Powered Fitness" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codeash007&repo=Ai_powered-fitness&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="AI Powered Fitness" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
         <a href="https://github.com/codeash007/Virtual--Voice-Assistant">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Virtual--Voice-Assistant&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Virtual Voice Assistant" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codeash007&repo=Virtual--Voice-Assistant&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Virtual Voice Assistant" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
         </a>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
         <a href="https://github.com/codeash007/90-Days-Code-Journey-with-Java-Dsa-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=90-Days-Code-Journey-with-Java-Dsa-&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="90 Days Java DSA" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codeash007&repo=90-Days-Code-Journey-with-Java-Dsa-&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="90 Days Java DSA" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
         </a>
       </td>
     </tr>
