@@ -2,17 +2,11 @@
 
 # 🚀 Ashish Dubey
 
-**`Frontend Web Developer | Java DSA | React | Python | Automation (n8n) | AI/ML Learner`**
+**`Full-Stack Web Developer · Freelancer · Computer Science`**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Tech+Enthusiast;BCA+3rd+Year+Student;UI%2FUX+Optimization+Expert;Building+Creative+Solutions" alt="Typing SVG" />
 
-I am a Frontend Web Developer and technology enthusiast with a strong foundation in Java (DSA) and Python.
-
-Currently a BCA 3rd-year student, I specialize in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React (Vite).
-
-I also have experience with workflow automation using n8n and prompt engineering, and I am actively learning AI/ML to enhance my technical capabilities.
-
-My focus is on developing clean, efficient, and scalable user-centric solutions that deliver real value.
+I'm a passionate web developer and tech enthusiast building creative and functional projects. Currently a BCA-3rd Year student aiming to master web development and UI/UX optimization. Focused on creating intelligent, user-friendly solutions that empower organizations with innovative digital systems.
 
 </div>
 
@@ -152,7 +146,7 @@ My focus is on developing clean, efficient, and scalable user-centric solutions 
         <img src="https://github-readme-stats-fast.vercel.app/api?username=codeash007&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" height="180" alt="Ashish's GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://streak-stats.demolab.com/?user=codeash007&theme=tokyonight&border_radius=15&background=1e293b&stroke=8b5cf6&ring=3b82f6&fire=8b5cf6&currStreakLabel=ffffff" height="180" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+        <img src="https://streak-stats.demolab.com/?user=codeash007&theme=tokyonight" height="180" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
       </td>
     </tr>
   </table>
