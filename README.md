@@ -2,11 +2,17 @@
 
 # 🚀 Ashish Dubey
 
-**`Full-Stack Web Developer · Freelancer · Computer Science`**
+**`Frontend Web Developer | Java DSA | React | Python | Automation (n8n) | AI/ML Learner`**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Tech+Enthusiast;BCA+3rd+Year+Student;UI%2FUX+Optimization+Expert;Building+Creative+Solutions" alt="Typing SVG" />
 
-I'm a passionate web developer and tech enthusiast building creative and functional projects. Currently a BCA-3rd Year student aiming to master web development and UI/UX optimization. Focused on creating intelligent, user-friendly solutions that empower organizations with innovative digital systems.
+I am a Frontend Web Developer and technology enthusiast with a strong foundation in Java (DSA) and Python.
+
+Currently a BCA 3rd-year student, I specialize in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React (Vite).
+
+I also have experience with workflow automation using n8n and prompt engineering, and I am actively learning AI/ML to enhance my technical capabilities.
+
+My focus is on developing clean, efficient, and scalable user-centric solutions that deliver real value.
 
 </div>
 
