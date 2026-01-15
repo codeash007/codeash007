@@ -166,8 +166,8 @@ I'm a passionate web developer and tech enthusiast building creative and functio
   <table style="border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://github.com/codeash007/Modern-PortFolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Modern-PortFolio&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Modern Portfolio" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+        <a href="https://github.com/codeash007/Chat-Bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Chat-Bot&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Chat-Bot" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
         </a>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
@@ -178,13 +178,13 @@ I'm a passionate web developer and tech enthusiast building creative and functio
     </tr>
     <tr>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://github.com/codeash007/Krishan-Janmashtami">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Krishan-Janmashtami&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Krishan Janmashtami" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+        <a href="https://github.com/codeash007/Virtual--Voice-Assistant">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=Virtual--Voice-Assistant&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Virtual Voice Assistant" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
         </a>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 20px; padding: 15px; box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://github.com/codeash007/heart-animation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=heart-animation&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="Heart Animation" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+        <a href="https://github.com/codeash007/90-Days-Code-Journey-with-Java-Dsa-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeash007&repo=90-Days-Code-Journey-with-Java-Dsa-&theme=tokyonight&border_radius=15&bg_color=1e293b&title_color=8b5cf6&text_color=ffffff&icon_color=3b82f6" alt="90 Days Java DSA" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
         </a>
       </td>
     </tr>
@@ -199,12 +199,12 @@ I'm a passionate web developer and tech enthusiast building creative and functio
   <table style="border-collapse: separate; border-spacing: 15px;">
     <tr>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 10px; box-shadow: 0 10px 25px rgba(255, 0, 0, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://www.youtube.com/@codeash007?sub_confirmation=1" target="_blank">
+        <a href="https://youtube.com/@ash_o_o?si=ZsXId5Wf1_HT6aw0" target="_blank">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e293b" alt="YouTube" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(255, 0, 0, 0.3);"/>
         </a>
       </td>
       <td align="center" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 15px; padding: 10px; box-shadow: 0 10px 25px rgba(228, 64, 95, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <a href="https://www.instagram.com/codeash.007/" target="_blank">
+        <a href="https://www.instagram.com/codeash._?igsh=YXp1ZWFvOWJ6NGNo" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e293b" alt="Instagram" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(228, 64, 95, 0.3);"/>
         </a>
       </td>
@@ -253,4 +253,3 @@ I'm a passionate web developer and tech enthusiast building creative and functio
     <b style="color: white; font-size: 18px;">⭐ If you like my work, consider following and starring the repositories! ⭐</b>
   </div>
 </div>
-
