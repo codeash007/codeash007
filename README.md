@@ -23,7 +23,7 @@ I'm a passionate AI Web Developer and tech enthusiast building intelligent, auto
         <img src="https://img.shields.io/badge/Java-ED1C24?style=for-the-badge&logo=java&logoColor=white&labelColor=1e293b" alt="Java" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(237, 28, 36, 0.3);"/>
       </td>
       <td align="center" width="120" style="background: linear-gradient(145deg, #1e293b, #334155); border-radius: 16px; padding: 15px; box-shadow: 0 8px 25px rgba(139, 92, 246, 0.3), inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/ffffff/external-data-structure-is-a-data-organization-management-and-storage-format-business-bold-tal-revivo.png" width="50" height="50" alt="DSA" style="filter: drop-shadow(0 0 10px rgba(139, 92, 246, 0.5));" />
+        <img src="https://img.icons8.com/external-flat-juicy-fish/60/ffffff/external-data-structure-coding-and-development-flat-juicy-fish.png" width="50" height="50" alt="DSA" style="filter: drop-shadow(0 0 10px rgba(139, 92, 246, 0.5));" />
         <br><br>
         <img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge&logo=data-structures&logoColor=white&labelColor=1e293b" alt="DSA" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);"/>
       </td>
