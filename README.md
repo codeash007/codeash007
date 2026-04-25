@@ -2,7 +2,7 @@
 
 # 🚀 Ashish Dubey
 
-**`AI Web Developer · AI Agent Expert · Computer Application`**
+**`AI Web Developer · AI Agent Dev · Computer Application`**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Web+Developer;AI+Agent+Specialist;n8n+Automation+Expert;BCA+3rd+Year+Student;Building+Intelligent+Solutions" alt="Typing SVG" />
 
