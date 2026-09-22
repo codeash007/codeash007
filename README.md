@@ -6,9 +6,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Web+Developer;AI+Agent+Specialist;n8n+Automation+Expert;BCA+3rd+Year+Student;Building+Intelligent+Solutions" alt="Typing SVG" />
 
-I'm an AI Web Developer focused on building intelligent systems and automation-driven web applications.
-I specialize in backend logic, AI integration, and workflow automation using tools like Python and n8n.
-I focus more on functionality and problem-solving than design.
+
+
+I am Ashish Dubey, a Full-Stack Developer and Freelancer from Roorkee, Uttarakhand, India. I am currently pursuing an MCA in Artificial Intelligence and Machine Learning at Lovely Professional University (LPU).
+
+I am interested in building practical solutions through Artificial Intelligence and Machine Learning, AI agents, n8n automation, Python, Java, Data Structures and Algorithms, Web Development, and business-focused technology projects.
+
+
 
 </div>
 
